@@ -1,4 +1,4 @@
-# Module 2 Challenge — Using Data to Determine Rate of Return for Various Stocks and Analyzing the Run-time of our Code
+# Module 2 Challenge — Using Data to Determine Rate of Return and Average Trading Volume for Various Stocks and Analyzing the Run-Time of our Refractored Code
 ______________________________________________________________________
 OVERVIEW OF PROJECT 
 ______________________________________________________________________
@@ -35,4 +35,4 @@ The advantages of refactoring code is that our script will run faster, the code 
 
 2. 	How do these pros and cons apply to refactoring the original VBA script?
  
-We saw that our code ran much faster than before refactoring it 
+We saw that our code ran much faster than before refactoring it. The process of refractoring our code was time consuming 
