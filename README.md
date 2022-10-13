@@ -9,17 +9,21 @@ ______________________________________________________________________
 As seen in figure 1 and figure 2, compared to 2018, 2017 was a much better performing year for the rate of return on the stocks we analyzed. There was an average rate of return of 67.3% in 2017. The average rate of return in 2018 was a -8.5%. As seen in figures 1 and 2, the trading volumes for the stocks were about the same for both years 
 
 ![image](https://user-images.githubusercontent.com/103878061/195664817-466f81ba-2b8b-4ae4-8b3d-fcc40f305611.png)
+
 Figure 1— Average rate of return and average trading volume in the year of 2017
 
 ![image](https://user-images.githubusercontent.com/103878061/195664992-c52e5b6b-1fda-4f8b-bd5e-064bf72a534d.png)
+
 Figure 2— Average rate of return and average trading volume in the year of 2018
 
 As seen in figure 3 it took an average runtime of 0.127 seconds to run the analysis for 2017. As seen in figure 4, it took an average runtime of 0.137 seconds to run the analysis for 2018.
 
 ![image](https://user-images.githubusercontent.com/103878061/195664926-5ef88ac8-7089-435b-b215-03798b7a882d.png)
+
 Figure 3— Runtime to execute the analysis on 2017 
 
 ![image](https://user-images.githubusercontent.com/103878061/195664873-b3e367b5-f6a3-4646-9b8d-42b5c24a1d5b.png)
+
 Figure 4— Runtime to execute the analysis on 2018
 ______________________________________________________________________
 SUMMARY
